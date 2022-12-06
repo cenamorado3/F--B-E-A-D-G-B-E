@@ -1,4 +1,4 @@
-//sequences with discriminated unions and record types
+//sequences with discriminated unions
 
 type Number = //public by default
     | Even of int//has an 'Is{Type?} = IsEven: bool by default???????
